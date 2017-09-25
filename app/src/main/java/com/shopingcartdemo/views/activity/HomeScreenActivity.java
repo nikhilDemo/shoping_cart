@@ -46,7 +46,7 @@ public class HomeScreenActivity extends AppCompatActivity implements CartFragmen
      */
     private void initialize() {
         cartFragment = CartFragment.newInstance(2);
-        productsFragment = ProductsFragment.newInstance(3);
+        productsFragment = ProductsFragment.newInstance(2);
     }
 
     /**
