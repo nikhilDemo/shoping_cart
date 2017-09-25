@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopingCartDemo</string>
+    <string name="title_products">Home</string>
+    <string name="title_carts">Cart</string>
+</resources>
