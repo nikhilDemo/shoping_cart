@@ -2,4 +2,6 @@
     <string name="app_name">ShopingCartDemo</string>
     <string name="title_products">Home</string>
     <string name="title_carts">Cart</string>
+    <string name="title_price">Price: </string>
+    <string name="title_add_to_cart">Add To Cart</string>
 </resources>
